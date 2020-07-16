@@ -1597,7 +1597,7 @@ header .header-fixed-box .right-box-fixed .burger-menu .burger-menu_button {
 }
 
 #home .home-slider .items {
-  background: url("/images/slider-1.png") no-repeat center;
+  background: url("../images/slider-1.png") no-repeat center;
   background-size: cover;
   padding: 87px 0 159px 0;
   width: 100%;
@@ -1617,32 +1617,32 @@ header .header-fixed-box .right-box-fixed .burger-menu .burger-menu_button {
 }
 
 #home .home-slider .items.second {
-  background: url("/images/slider-2.png") no-repeat bottom;
+  background: url("../images/slider-2.png") no-repeat bottom;
   background-size: cover;
 }
 
 #home .home-slider .items.third {
-  background: url("/images/slider-3.png") no-repeat bottom;
+  background: url("../images/slider-3.png") no-repeat bottom;
   background-size: cover;
 }
 
 #home .home-slider .items.four {
-  background: url("/images/slider-4.png") no-repeat bottom;
+  background: url("../images/slider-4.png") no-repeat bottom;
   background-size: cover;
 }
 
 #home .home-slider .items.five {
-  background: url("/images/slider-5.png") no-repeat bottom;
+  background: url("../images/slider-5.png") no-repeat bottom;
   background-size: cover;
 }
 
 #home .home-slider .items.six {
-  background: url("/images/slider-6.png") no-repeat bottom;
+  background: url("../images/slider-6.png") no-repeat bottom;
   background-size: cover;
 }
 
 #home .home-slider .items.seven {
-  background: url("/images/slider-7.png") no-repeat bottom;
+  background: url("../images/slider-7.png") no-repeat bottom;
   background-size: cover;
 }
 
@@ -1800,7 +1800,7 @@ footer .contacts .btn-3 #exclusive a a img {
 
 #professional-design {
   padding: 61px 0 79px 0;
-  background: url("/images/design background.png") no-repeat center;
+  background: url("../images/design background.png") no-repeat center;
   background-size: cover;
   position: static;
 }
@@ -1841,7 +1841,7 @@ footer .contacts .btn-3 #exclusive a a img {
 }
 
 #design-project {
-  background: url("/images/photo-project-background.png") no-repeat center;
+  background: url("../images/photo-project-background.png") no-repeat center;
   background-size: cover;
   padding: 70px 0 82px 0;
 }
@@ -1879,7 +1879,7 @@ footer .contacts .btn-3 #portfolio a {
 
 #materials {
   padding: 65px 0 80px 0;
-  background: url("/images/furniturematerials furniture background.png") no-repeat center;
+  background: url("../images/furniturematerials furniture background.png") no-repeat center;
   background-size: cover;
   position: static;
 }
@@ -1891,7 +1891,7 @@ footer .contacts .btn-3 #portfolio a {
 #materials .box {
   width: 505px;
   position: relative;
-  background: url("/images/bg.png") no-repeat;
+  background: url("../images/bg.png") no-repeat;
   background-size: contain;
   border-radius: 4px;
   display: -webkit-box;
@@ -1941,7 +1941,7 @@ footer .contacts .btn-3 #materials a a:first-child {
 
 #social {
   padding: 80px 0 75px 0;
-  background: url("/images/social background.png") no-repeat center;
+  background: url("../images/social background.png") no-repeat center;
   background-size: cover;
   position: static;
 }
@@ -2224,14 +2224,14 @@ footer .contacts .btn-3 #cooperation-mobile a a {
   padding: 40px 30px 41px 55px;
   width: 340px;
   height: 265px;
-  background: url("/images/Subtract.png") no-repeat center;
+  background: url("../images/Subtract.png") no-repeat center;
   background-size: cover;
   margin-bottom: 53px;
 }
 
 #advantages .box:before {
   content: "";
-  background: url("/images/opyt-raboty.svg") no-repeat center;
+  background: url("../images/opyt-raboty.svg") no-repeat center;
   background-size: contain;
   width: 60px;
   height: 80px;
@@ -2255,23 +2255,23 @@ footer .contacts .btn-3 #cooperation-mobile a a {
 }
 
 #advantages .box.second:before {
-  background: url("/images/individualnyj-podhod.svg") no-repeat center;
+  background: url("../images/individualnyj-podhod.svg") no-repeat center;
 }
 
 #advantages .box.third:before {
-  background: url("/images/bez-salona.svg") no-repeat center;
+  background: url("../images/bez-salona.svg") no-repeat center;
 }
 
 #advantages .box.four:before {
-  background: url("/images/individualnyj-podhod.svg") no-repeat center;
+  background: url("../images/individualnyj-podhod.svg") no-repeat center;
 }
 
 #advantages .box.five:before {
-  background: url("/images/professionalnoe-oborudovanie.svg") no-repeat center;
+  background: url("../images/professionalnoe-oborudovanie.svg") no-repeat center;
 }
 
 #advantages .box.six:before {
-  background: url("/images/sborka-i-montazh.svg") no-repeat center;
+  background: url("../images/sborka-i-montazh.svg") no-repeat center;
 }
 
 #scheme {
@@ -2372,7 +2372,7 @@ footer .contacts .btn-3 #scheme a a.second {
 
 #scheme .pdf {
   margin-top: 100px;
-  background: url("/images/pdf-bg.png") no-repeat center;
+  background: url("../images/pdf-bg.png") no-repeat center;
   background-size: cover;
   padding: 30px 0 0 40px;
 }
@@ -3276,7 +3276,7 @@ footer .contacts .btn-3 #send form a {
 
   #home .home-slider .items {
     padding: 67px 30px 40px 30px;
-    background: url("/images/img-1.png") no-repeat bottom;
+    background: url("../images/img-1.png") no-repeat bottom;
     background-size: cover;
   }
 
@@ -3285,32 +3285,32 @@ footer .contacts .btn-3 #send form a {
   }
 
   #home .home-slider .items.second {
-    background: url("/images/img-2.png") no-repeat bottom;
+    background: url("../images/img-2.png") no-repeat bottom;
     background-size: cover;
   }
 
   #home .home-slider .items.third {
-    background: url("/images/img-3.png") no-repeat bottom;
+    background: url("../images/img-3.png") no-repeat bottom;
     background-size: cover;
   }
 
   #home .home-slider .items.four {
-    background: url("/images/img-4.png") no-repeat bottom;
+    background: url("../images/img-4.png") no-repeat bottom;
     background-size: cover;
   }
 
   #home .home-slider .items.five {
-    background: url("/images/img-5.png") no-repeat bottom;
+    background: url("../images/img-5.png") no-repeat bottom;
     background-size: cover;
   }
 
   #home .home-slider .items.six {
-    background: url("/images/img-6.png") no-repeat bottom;
+    background: url("../images/img-6.png") no-repeat bottom;
     background-size: cover;
   }
 
   #home .home-slider .items.seven {
-    background: url("/images/img-7.png") no-repeat bottom;
+    background: url("../images/img-7.png") no-repeat bottom;
     background-size: cover;
   }
 
@@ -3676,7 +3676,7 @@ footer .contacts .btn-3 #send form a {
   }
 
   #design-project {
-    background: url("/images/Group 1395 1.png") no-repeat bottom center;
+    background: url("../images/Group 1395 1.png") no-repeat bottom center;
     background-size: cover;
   }
 
@@ -3791,7 +3791,7 @@ footer .contacts .btn-3 #send form a {
 
   #professional-design {
     padding: 35px 0 50px 0;
-    background: url("/images/design-bg_mobile.png") no-repeat center;
+    background: url("../images/design-bg_mobile.png") no-repeat center;
     background-size: cover;
   }
 
@@ -3826,7 +3826,7 @@ footer .contacts .btn-3 #send form a {
 
   #design-project {
     padding: 24px 0 40px 0;
-    background: url("/images/Group 1395 1.png") no-repeat top;
+    background: url("../images/Group 1395 1.png") no-repeat top;
     background-size: cover;
   }
 
@@ -3875,7 +3875,7 @@ footer .contacts .btn-3 #send form a {
   }
 
   #materials {
-    background: url("/images/material-mobile-background.png") no-repeat center;
+    background: url("../images/material-mobile-background.png") no-repeat center;
     background-size: cover;
     padding: 15px 0 115px 0;
   }
@@ -3935,7 +3935,7 @@ footer .contacts .btn-3 #send form a {
 
   #social {
     padding: 42px 0 119px 0;
-    background: url("/images/social-mobile-bg.png") no-repeat top;
+    background: url("../images/social-mobile-bg.png") no-repeat top;
     background-size: cover;
   }
 
@@ -3971,7 +3971,7 @@ footer .contacts .btn-3 #send form a {
   }
 
   #about {
-    background: url("/images/company-mobile-background.png") no-repeat;
+    background: url("../images/company-mobile-background.png") no-repeat;
     background-size: cover;
   }
 
@@ -4104,7 +4104,7 @@ footer .contacts .btn-3 #send form a {
   }
 
   #pdf {
-    background: url("/images/pdf-mobile-background.png") no-repeat;
+    background: url("../images/pdf-mobile-background.png") no-repeat;
     background-size: cover;
   }
 
