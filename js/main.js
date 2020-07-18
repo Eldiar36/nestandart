@@ -10,10 +10,27 @@ window.onscroll = function showHeader() {
         header.classList.remove("header-fixed")
     }
 };
+$(document).ready(function(){
 
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('.scrollup').fadeIn();
+        } else {
+            $('.scrollup').fadeOut();
+        }
+    });
+
+    $('.scrollup').click(function(){
+        $("html, body").animate({ scrollTop: 0 }, 600);
+        return false;
+    });
+
+
+
+});
 function burgerMenu(selector) {
     let menu = $(selector);
-    let button = menu.find(".burger-menu_button");
+    let button = menu.find(".burger-button-wrap");
     let links = menu.find("burger-menu_link");
     let overlay = menu.find("burger-menu_overlay");
     button.on("click",(e) => {
@@ -55,7 +72,8 @@ $(document).ready(function(){
         loop:true,
         nav:false,
         navText:true,
-        margin:30,
+        margin:0,
+        animateIn: true,
         autoWidth: false,
         autoHeight: true,
         responsive: {
@@ -75,7 +93,7 @@ $(document).ready(function(){
     });
 });
 AOS.init({
-    offset: 100,
+    offset: 0,
 });
 
 jQuery(document).ready(function($) {
